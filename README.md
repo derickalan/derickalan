@@ -13,6 +13,8 @@
 <div>
   <a href="https://github.com/derickalan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=derickalan&show_icons=fal&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derickalan&layout=compact&langs_count=16&theme=dracula"/>
+  
   
   
 </div>
