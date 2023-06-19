@@ -7,7 +7,6 @@
 - 👯 Almejo colaborar como analista de dados, BI e DataScience.
 - 🤔 Estou procurando pessoas que também estejam em aprendizagem ou que possam ser mentoras da minha capacitação.
 - 📫 Você pode me encontrar no seguinte endereço eletrônico: derick.alan@hotmail.com
-- 
 - 😄😍 Eu amo viajar, praticar atividades físicas, ver exposições de arte e concertos musicais. Também sou apaixonado por trilhas e cachoeiras, meditar na natureza, ler e ir pra bares com os amigos. Também sou fã filmes e séries e nos finais de semana gosto de cozinhar.
 - ⚡ Bem vindo ao meu git espero que possamos trocar muitos conhecimentos aqui na rede!
 
