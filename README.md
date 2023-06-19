@@ -1,4 +1,4 @@
-### Olá para você.. and Hello World 👋
+### Olá para você.. and Hello World! 😄👋
 
 
 - 🔭 Atualmente estou trabalhando no BB como assistente de operações junior, desenvolvendo atividades de: execução de rotinas automatizadas de TI; análise de operações de crédito de agonegócio; integrante do núcleo de comunicação, clima e qualidade de vida no trabalho da Ecoa (plataforma BH).
@@ -10,3 +10,9 @@
 - 😄😍 Eu amo viajar, praticar atividades físicas, ver exposições de arte e concertos musicais. Também sou apaixonado por trilhas e cachoeiras, meditar na natureza, ler e ir pra bares com os amigos. Também sou fã filmes e séries e nos finais de semana gosto de cozinhar.
 - ⚡ Bem vindo ao meu git, espero que possamor ter trocar bacanas aqui na rede!
 
+<div>
+  <a href="https://github.com/derickalan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=derickalan&show_icons=fal&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+  
+</div>
