@@ -6,9 +6,10 @@
 - 💬 Sou formado em Engenharia Ambiental e Gestão Financeira. Ja cursei especializações nas seguintes áreas: Gestão de Negócios; Mercado de Capitais; Licenciamento Ambiental e Eng. de Seg. do Trabalho.
 - 👯 Almejo colaborar como analista de dados, BI e DataScience.
 - 🤔 Estou procurando pessoas que também estejam em aprendizagem ou que possam ser mentoras da minha capacitação.
-- 📫 Você pode me encontrar no seguinte endereço eletrônico: derick.alan@hotmail.com ou no instagran @derick.alan
+- 📫 Você pode me encontrar no seguinte endereço eletrônico: derick.alan@hotmail.com
+- 
 - 😄😍 Eu amo viajar, praticar atividades físicas, ver exposições de arte e concertos musicais. Também sou apaixonado por trilhas e cachoeiras, meditar na natureza, ler e ir pra bares com os amigos. Também sou fã filmes e séries e nos finais de semana gosto de cozinhar.
-- ⚡ Bem vindo ao meu git, espero que possamor ter trocar bacanas aqui na rede!
+- ⚡ Bem vindo ao meu git espero que possamos trocar muitos conhecimentos aqui na rede!
 
 <div>
   <a href="https://github.com/derickalan">
